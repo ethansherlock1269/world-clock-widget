@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">世界时钟挂件</string>
+    <string name="widget_desc">欧式摆钟 · 任选时区 · 小鸡啄米</string>
+    <string name="widget_label">​</string>
+</resources>

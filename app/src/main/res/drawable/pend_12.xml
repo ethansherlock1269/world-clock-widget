@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/pendulum_full"
+    android:pivotX="50%"
+    android:pivotY="73.94%"
+    android:fromDegrees="8.49"
+    android:toDegrees="8.49" />

@@ -1,0 +1,13 @@
+# Gradle / Android Studio
+.gradle/
+build/
+.idea/
+*.iml
+local.properties
+captures/
+.cxx/
+.kotlin/
+
+# 编译产物：APK 请放到 GitHub Releases，不要提交进仓库
+*.apk
+*.aab

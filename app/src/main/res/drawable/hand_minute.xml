@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/hand_minute_full"
+    android:pivotX="50%"
+    android:pivotY="42.05%"
+    android:fromDegrees="0"
+    android:toDegrees="360" />
